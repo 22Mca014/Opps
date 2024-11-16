@@ -67,5 +67,5 @@ An inline function is a function that is expanded in line when it is invoked. In
 
 ---
 
-### Author
-This document was created to simplify and summarize key C++ concepts for easy reference.
+### David Mondal
+This document was created to simplify and summarize key C++  class and object concepts for easy reference .
